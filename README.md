@@ -1,2 +1,2 @@
 # Latex-tikz-resource-figure
-Latex-tikz-resource-figure, relatively heavy dependencies graphics for Latex
+Latex-tikz-resource-figure, relatively heavy dependencies pictures/graphics for Latex
