@@ -1,0 +1,17 @@
+
+
+!tex
+
+\usepackage{tikz}
+
+!begin
+
+\begin{tikzpicture}
+\draw (1,1) node[anchor=north east,circle,
+draw]{A} -- (2,2) node[anchor=south west,
+circle,draw]{B};
+\end{tikzpicture}
+
+
+
+
